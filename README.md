@@ -1,8 +1,13 @@
-# Install Gitea Git service on Debian 11| Debian 10
+<p align="center">
+  <a href="https://gitea.io/">
+    <img alt="Gitea" src="https://raw.githubusercontent.com/go-gitea/gitea/main/public/img/gitea.svg" width="220"/>
+  </a>
+</p>
+<h1 align="center">Install Gitea Git service on Debian 11| Debian 10</h1>
 
-<p style="text-align:center;"><img src="https://try.gitea.io/assets/img/logo.svg" width="100px"><p>
-
+<p align="center">
 In this tutorial, we’ll do installation of Gitea on Debian 11| Debian 10 Linux and configure Nginx proxy to forward requests to Gitea internal service on a port. With Nginx, you can optionally terminal SSL certificates when doing a secure setup on Gitea on Debian 10 Server.
+</p>
 
 # Step 1: Update System and Install git
 
